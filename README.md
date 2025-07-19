@@ -1,11 +1,10 @@
-<!-- 🖋️ Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=HiHi+I'm+Fiona!+✨;Cloud+%26+Web+Developer+in+Progress+☁️;Keep+Learning+%2B+Keep+Smiling+💻🌸" alt="Typing SVG" />
-</p>
-
-<p align="center" style="color:#8C3048">
-🌱 A junior cloud developer keen to learn new technologies and communicate with people with the same interests
-</p>
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=HiHi+I'm+Fiona!+✨;A+Cloud+Developer+Now+☁️;Nice+to+meet+you+here+🤚🏻)
+  
+  **🌱 A junior cloud developer keen to learn new technologies and communicate with people with the same interests**
+  
+</div>
 
 <br />
 
