@@ -2,7 +2,7 @@
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=HiHi+I'm+Fiona!+✨;A+Cloud+Developer+Now;Nice+to+meet+you+here+🤚🏻)
   
-  **🌱 A junior cloud developer keen to learn new technologies and communicate with people with the same interests 🌱**
+  **🌱 A cloud developer keen to learn new technologies and communicate with people with the same interests 🌱**
   
 </div>
 
