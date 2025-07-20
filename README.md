@@ -35,9 +35,9 @@
 
 
 <h3>📮 Reach Me &nbsp;&nbsp;
-  <a href="mailto:tomato870208@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="30" height="30" alt="Email" />
-  </a> &nbsp;
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tomato870208@gmail.com" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="30" height="30" alt="Email" />
+</a> &nbsp;
   <a href="https://www.linkedin.com/in/fiona-liu-952938312/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn" />
   </a>
