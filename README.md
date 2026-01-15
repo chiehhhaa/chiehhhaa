@@ -28,7 +28,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiehhhaa&layout=compact&langs_count=6&title_color=BF6989" />
+  <img height="170" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=chiehhhaa&layout=compact&langs_count=6&title_color=BF6989" />
 </div>
 
 <br />
