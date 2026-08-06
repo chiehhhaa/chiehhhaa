@@ -1,10 +1,7 @@
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=HiHi+I'm+Fiona!+✨;A+Technical+Consultant+Now;Nice+to+meet+you+here+🤚🏻)
-  
-  **☁️ Technical Consultant @ Master Concept — GCP cloud services & AI solution ☁️**
-  
-  **🌱 Also hands-on with AI adoption projects: data pre-processing, RAG, and Agentic Search 🌱**
+
   
 </div>
 
